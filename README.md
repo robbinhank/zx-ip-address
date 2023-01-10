@@ -9,8 +9,6 @@ database updated at <font color=#FF0000 size=36>2021-08-25</font> with <font col
 ### IPv6 address locations by Zx Inc.
 database updated at <font color=#FF0000 size=36>2021-07-26</font> with <font color=#FF0000 size=36>178724</font> records
 
-### Sponsor/赞助
-![QrCode](https://blog.yinghualuo.cn/blog/2020/11/sponsor.png)
 
 ### License/使用协议
 ZxIpAddress is licensed under [MIT](https://github.com/ritaswc/zx-ip-address/blob/main/LICENSE).
